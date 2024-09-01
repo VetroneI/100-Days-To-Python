@@ -1,2 +1,2 @@
-This is a repository of all of my projects. 
+This is a repository of my 100 Days To Python projects 
 
