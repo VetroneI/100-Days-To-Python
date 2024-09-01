@@ -59,7 +59,7 @@ def cpu():
     global cpuChoice
 
     cpuChoice = rockpaperscissors[cpurand]
-    print(cpuChoice)
+    print(f"\n\nCPU Chooses:{cpuChoice} ")
 
 
 
